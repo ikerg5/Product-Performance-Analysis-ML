@@ -303,18 +303,7 @@ Normalization ensures all features contribute equally.
 - Create interactive dashboard with Streamlit
 - Add time-series analysis if temporal data available
 
-## Author
+## Authors 
 
-[Your Name]
-[Your Student ID]
-FIU - Computer Science
-
-## Acknowledgments
-
-- Assignment designed by FIU CAI Department
-- Gen-AI tools used for code optimization and debugging
-- Python scientific computing community for excellent libraries
-
-## License
-
-This project is submitted as academic work for educational purposes.
+Iker Gonzalez Torre (6402702)
+Francisco Ortiz Diaz (6438537)
